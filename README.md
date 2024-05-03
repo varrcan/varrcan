@@ -44,9 +44,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varrcan&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=varrcan&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varrcan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=varrcan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varrcan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=varrcan&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
