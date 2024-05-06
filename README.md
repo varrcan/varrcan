@@ -47,12 +47,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=varrcan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varrcan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varrcan&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=varrcan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
