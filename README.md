@@ -46,8 +46,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=varrcan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varrcan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=varrcan&icon=0&color=0)](https://visitcount.itsvg.in)
